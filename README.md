@@ -1,9 +1,9 @@
 
-### Hey 👋🏽, I'm [BlockchainGuru125](https://t.me/blockchainGuru125)  
+### Hey 👋🏽, I'm [cryptoguru1112](https://t.me/cryptoguru1112)  
 
 <br/>
 
-Hi, I'm BlockchainGuru125, a Blockchain and Cryptocurrency Developer 🚀, currently, I have rich experience with Blockchain, Ethereum, Yield Farming, Smart Contracts, DEFI and NFT marketplace. I develop website using React.js, Redux, web3.js, Vue.js, Express, Node.js, Laravel and etc.
+Hi, I'm cryptoguru1112, a Blockchain and Cryptocurrency Developer 🚀, currently, I have rich experience with Blockchain, Ethereum, Yield Farming, Smart Contracts, DEFI and NFT marketplace. I develop website using React.js, Redux, web3.js, Vue.js, Express, Node.js, Laravel and etc.
 I have developed many successful sites so far with mentioned skills.
 
 ####      ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Solidity-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Typescript-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
@@ -19,7 +19,7 @@ I have developed many successful sites so far with mentioned skills.
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 💬 Telegram : [@blockchainGuru125](https://t.me/blockchainGuru125)
+- 💬 Telegram : [@cryptoguru1112](https://t.me/cryptoguru1112)
 - 💬 discord : blockchainGuru125#7731
 - 📝 Email : blockchainguru125@gmail.com
 
@@ -36,9 +36,9 @@ I have developed many successful sites so far with mentioned skills.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=blockchainGuru125&show_icons=true&theme=radical)
+![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=cryptoguru1112&show_icons=true&theme=radical)
 
 
 
 
-⭐️ From [blockchainGuru125](https://github.com/blockchainGuru125)
+⭐️ From [cryptoguru1112](https://github.com/cryptoguru1112)
