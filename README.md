@@ -12,9 +12,9 @@ I have developed many successful sites so far with mentioned skills.
 
 ####      ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Solidity-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Typescript-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
   
-<div>
+<!-- <div>
   <img align="right" alt="GIF" src="https://media2.giphy.com/media/nIoUgc3KW2BF5rxVj2/giphy-downsized-large.gif" width="400" height="320" />
-</div>
+</div> -->
 
 **Talking about Personal Stuffs:**
 
