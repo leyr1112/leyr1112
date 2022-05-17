@@ -38,7 +38,7 @@ I have developed many successful sites so far with mentioned skills.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=cryptoguru1112&show_icons=true&theme=dracula)
+<!-- ![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=cryptoguru1112&show_icons=true&theme=dracula) -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cryptoguru1112&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ⭐️ From [cryptoguru1112](https://github.com/cryptoguru1112)
