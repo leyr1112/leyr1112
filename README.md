@@ -3,7 +3,7 @@
 
 <br/>
 
-Hi, I'm cryptoguru1112, a Blockchain and Cryptocurrency Developer 🚀, currently, I have rich experience with Blockchain, Ethereum, Yield Farming, Smart Contracts, DEFI and NFT marketplace. I develop website using React.js, Redux, web3.js, Vue.js, Express, Node.js, Laravel and etc.
+Hi, I'm cryptoguru1112, a Blockchain and Cryptocurrency Developer, currently, I have rich experience with Blockchain, Ethereum, Yield Farming, Smart Contracts, DEFI and NFT marketplace. I develop website using React.js, Redux, web3.js, Vue.js and etc. Especially, I am developing blockchain dapps and fork new protocols.
 I have developed many successful sites so far with mentioned skills.
 
 ![](https://komarev.com/ghpvc/?username=cryptoguru1112&label=Profile%20views&color=fe6e95&style=plastic)
