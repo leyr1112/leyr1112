@@ -1,14 +1,14 @@
 
-### Hey 👋🏽, I'm [cryptoguru1112](https://t.me/cryptoguru1112)  
+### Hey 👋🏽, I'm [smartass1112](https://t.me/smartass1112)  
 
 <br/>
 
-Hi, I'm cryptoguru1112, a Blockchain and Cryptocurrency Developer, currently, I have rich experience with Blockchain, Ethereum, Yield Farming, Smart Contracts, DEFI and NFT marketplace. I develop website using React.js, Redux, web3.js, Vue.js and etc. Especially, I am developing blockchain dapps and fork new protocols.
+Hi, I'm smartass1112, a Blockchain and Cryptocurrency Developer, currently, I have rich experience with Blockchain, Ethereum, Yield Farming, Smart Contracts, DEFI and NFT marketplace. I develop website using React.js, Redux, web3.js, Vue.js and etc. Especially, I am developing blockchain dapps and fork new protocols.
 I have developed many successful sites so far with mentioned skills.
 
-![](https://komarev.com/ghpvc/?username=cryptoguru1112&label=Profile%20views&color=fe6e95&style=plastic)
+![](https://komarev.com/ghpvc/?username=smartass1112&label=Profile%20views&color=fe6e95&style=plastic)
 <br />
-![](https://github-profile-trophy.vercel.app/?username=cryptoguru1112&theme=dracula)
+![](https://github-profile-trophy.vercel.app/?username=smartass1112&theme=dracula)
 
 ####      ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Solidity-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Typescript-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
   
@@ -23,7 +23,7 @@ I have developed many successful sites so far with mentioned skills.
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 💬 Telegram : [@cryptoguru1112](https://t.me/cryptoguru1112)
+- 💬 Telegram : [@smartass1112](https://t.me/smartass1112)
 
 **Languages and Tools:**   
 
@@ -38,7 +38,7 @@ I have developed many successful sites so far with mentioned skills.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<!-- ![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=cryptoguru1112&show_icons=true&theme=dracula) -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cryptoguru1112&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- ![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=smartass1112&show_icons=true&theme=dracula) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smartass1112&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-⭐️ From [cryptoguru1112](https://github.com/cryptoguru1112)
+⭐️ From [smartass1112](https://github.com/smartass1112)
