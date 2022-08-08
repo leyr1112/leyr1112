@@ -43,7 +43,7 @@ Personal Websites: <br />
 [https://zombfinance.com/](https://zombfinance.com/)<br />
 [https://optimuswap.io/](https://optimuswap.io/)<br />
 [https://socaverse.finance/](https://socaverse.finance/)<br />
-[https://hodlx.exchange/](https://hodlx.exchange/)<br /><br />
+[https://hodlx.exchange/](https://hodlx.exchange/)<br />
 [https://www.aalto-protocol.com/](https://www.aalto-protocol.com/)
 
 
