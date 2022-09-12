@@ -39,13 +39,6 @@ I have developed many successful sites so far with mentioned skills.
 <!-- ![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=leyr1112&show_icons=true&theme=dracula) -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leyr1112&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-Personal Websites: <br />
-[https://zombfinance.com/](https://zombfinance.com/)<br />
-[https://optimuswap.io/](https://optimuswap.io/)<br />
-[https://socaverse.finance/](https://socaverse.finance/)<br />
-[https://hodlx.exchange/](https://hodlx.exchange/)<br />
-[https://www.aalto-protocol.com/](https://www.aalto-protocol.com/)
-
 
 
 ⭐️ From [leyr1112](https://github.com/leyr1112)
