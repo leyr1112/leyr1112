@@ -1,6 +1,5 @@
 
-<!-- ### Hey 👋🏽, I'm [leyr1112](https://t.me/leyr1112)   -->
-Hello!
+### Hey 👋🏽, I'm [leyr1112](https://t.me/leyr1112)  
 
 <br/>
 
@@ -21,8 +20,8 @@ I have developed many successful sites so far with mentioned skills.
 - 🌱 I’m currently learning Cloud Computing
 - 📫 Ask me about anything, I am happy to help
 
-<!-- **Connect with me:**
-- 💬 Telegram : [@leyr1112](https://t.me/leyr1112) -->
+**Connect with me:**
+- 💬 Telegram : [@leyr1112](https://t.me/leyr1112)
 
 **Languages and Tools:**   
 
