@@ -3,7 +3,7 @@
 
 <br/>
 
-Hi, I'm leyr1112. As a prominent developer with deep knowledge and practical ability on blockchain and crypto, I designed and developed numerous DApps ourselves. I am grasping the crypto market with an innovative perspective and new ideas, and I am always thinking forward to the future, putting energy into the market growth and introducing new technologies. I have developed numerous DEFI projects, crypto games, payment systems, and financial projects, and are creative with any idea of my clients. If you are looking for a surefire success in the crypto market, please contact me.
+Hi, I'm leyr1112. As a prominent developer with deep knowledge and practical ability on blockchain and crypto, I designed and developed numerous DApps myself. I am grasping the crypto market with an innovative perspective and new ideas, and I am always thinking forward to the future, putting energy into the market growth and introducing new technologies. I have developed numerous DEFI projects, crypto games, payment systems, and financial projects, and are creative with any idea of my clients. If you are looking for a surefire success in the crypto market, please contact me.
 
 ![](https://github-profile-trophy.vercel.app/?username=leyr1112&theme=dracula)
 
