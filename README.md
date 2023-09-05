@@ -5,8 +5,8 @@ Hi, I'm leyr1112. As a prominent developer with deep knowledge and practical abi
 
 ####      ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Solidity-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Typescript-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
 
-**Connect with me:**
-- 💬 Telegram : [@leyr1112](https://t.me/leyr1112)
+ ### **Connect with me:**
+### - 💬 Telegram : [@leyr1112](https://t.me/leyr1112)
 
 **Languages and Tools:**   
 
