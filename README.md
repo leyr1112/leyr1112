@@ -16,6 +16,4 @@ Hi, I'm leyr1112. As a prominent developer with deep knowledge and practical abi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-[![HackerRank](https://www.hackerrank.com/certificates/iframe/8a470236f2a7)](https://www.hackerrank.com/certificates/iframe/8a470236f2a7)
-
 ⭐️ From [leyr1112](https://github.com/leyr1112)
