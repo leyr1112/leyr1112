@@ -39,4 +39,4 @@ Open to collaboration, innovation, and new opportunities. Reach out for projects
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-⭐️ From [vlada91](https://github.com/vlada91)
+⭐️ From [leyr1112](https://github.com/leyr1112)
